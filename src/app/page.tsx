@@ -44,22 +44,6 @@ export default function Home() {
                 </div>
             </section>
 
-
-            {/* <div className='items-center justify-center w-full hidden md:flex xl:hidden xl:top-0'>
-
-                <Image
-                    className={`absolute right-0 md:right-0 lg:right-16 top-24`}
-                    width={300}
-                    height={300}
-                    src="/brain.png"
-                    alt=""
-                    priority
-                />
-            </div> */}
-
-
-
-
             <section className='flex flex-col w-full px-8 items-center justify-center mt-12 md:mt-24  mb-16'>
                 <h1 className='text-xl font-normal text-[#3B3A45] mb-8'>APOIO</h1>
                 <section className='grid grid-cols-1 md:grid-cols-2 justify-center gap-16 items-center relative'>
