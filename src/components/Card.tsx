@@ -28,12 +28,9 @@ export default function Card({ card, children, hasSourceCode }: { card: ICard, c
         xl:w-[27.5rem]
 
         h-full
-        md:h-full
 
-        transition-all duration-500 ease
-        ${!hasLanguages && !active ? 'h-full' : active ? 'h-full' : 'h-full'}
-        ${!hasLanguages && !active ? 'h-full' : active ? 'h-full' : 'md:h-[13rem] md:max-h-[13rem]'}
-        ${!hasLanguages && !active ? 'h-full' : active ? 'h-full' : 'xl:h-[11rem] xl:max-h-[11rem]'}
+        ${!hasLanguages && !active ? 'h-full' : active ? 'h-full' : 'md:h-[13rem]'}
+        ${!hasLanguages && !active ? 'h-full' : active ? 'h-full' : 'xl:h-[11rem]'}
         ${!active && 'hover:opacity-80 hover:ring-blue-950/30 cursor-pointer'}`}
             onClick={() => setActive(!active)}>
             <section className={`flex gap-2 items-center justify-between`}>
@@ -64,7 +61,7 @@ export default function Card({ card, children, hasSourceCode }: { card: ICard, c
                                 <a target="_blank" href={url}>
                                     <Image
                                         className="relative"
-                                        src="/github.svg"
+                                        src={url.includes('github') ? '/github.svg' : '/external_link.svg'}
                                         alt=""
                                         width={32}
                                         height={32}
