@@ -51,7 +51,7 @@ export default function Card({ card, children, hasSourceCode }: { card: ICard, c
                         height={28}
                         priority
                     />
-                    <h1 className='text-md xl:text-xl font-semibold'>{card.title}</h1>
+                    <h1 className='text-white text-md xl:text-xl font-semibold'>{card.title}</h1>
                 </section>
 
                 {hasSourceCode &&
@@ -77,7 +77,7 @@ export default function Card({ card, children, hasSourceCode }: { card: ICard, c
                 <section className="ml-16 flex flex-col mt-4">
                     <ul>
                         {card.members.map((member) => {
-                            return <li key={member}>{member}</li>
+                            return <li key={member} className="text-white">{member}</li>
                         })}
                     </ul>
                 </section>

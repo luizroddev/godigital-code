@@ -15,7 +15,7 @@ export default function Home() {
                         <div className="w-[66px] h-[1px] absolute lg:bottom-2/3 bottom-3/4 bg-amber-200 bg-opacity-20"></div>
                     </div>
                     <h1 className='text-[#FFD28D] text-2xl lg:text-4xl lg:mt-4' style={pressStart2P.style}>goDigital Code!</h1>
-                    <span className='text-xs mt-12 lg:text-lg max-w-md md:max-w-xs xl:max-w-4xl'>
+                    <span className='text-white text-xs mt-12 lg:text-lg max-w-md md:max-w-xs xl:max-w-4xl'>
                         Ao longo do ano, os alunos do <span className='text-[#FFD28D] text-sm mt-6' style={graduate.style}>2º ano de Sistemas
                             de Informação Online</span> da <span className='text-rose-500'>FIAP</span> foram desafiados a desenvolver sistemas completos de gestão para micro e pequenas empresas
                     </span>
