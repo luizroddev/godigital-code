@@ -1,0 +1,415 @@
+[
+    {
+        "title": "Invo Coders",
+        "members": [
+            "Alex Coelho de Oliveira",
+            "Camila Maria Santos da Silva",
+            "Gabriel Hernandes Schincariol",
+            "Guilherme Radan Pereira Santos",
+            "Lucas da Silva de Almeida Costa"
+        ],
+        "links": {
+            "youtube_url": "https://www.youtube.com/watch?v=cYjK24jBUtA&ab_channel=LucasCosta",
+            "github_url": [
+                "https://github.com/schin0/Acai46"
+            ]
+        },
+        "languages": {
+            "HTML": 42266,
+            "JavaScript": 39337,
+            "Java": 33952,
+            "CSS": 19475
+        }
+    },
+    {
+        "title": "Os 3 Mosqueteiros",
+        "members": [
+            "Beatriz Nonato",
+            "Larissa Aparecida Costa Soares",
+            "Richard Gonçalves de Souza Silva"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/_7rzViqLBoc",
+            "github_url": []
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Pedro Augusto Rodrigues Pereira"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/PvqNxSgPPUw",
+            "github_url": [
+                "https://github.com/pedro-arp/EnterpriseChallenge"
+            ]
+        },
+        "languages": {
+            "Java": 15861
+        }
+    },
+    {
+        "title": "Medita IT",
+        "members": [
+            "JAD Hussam Majzoub",
+            "Rubhia Teixeira Cardoso",
+            "João Victor Ferreira Faustino Fortes",
+            "Rodrigo Souza Santos",
+            "Leonardo Silva de Jesus"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/CmULEoqCKbo",
+            "github_url": []
+        }
+    },
+    {
+        "title": "GSIE",
+        "members": [
+            "Clayton Souza da Silva",
+            "Henrique Rodrigues Mulinari",
+            "Yasmin Catarina de Lima",
+            "Eduardo Arantes Figueiredo"
+        ],
+        "links": {
+            "youtube_url": "https://www.youtube.com/watch?v=cRmIXVZ0oTI",
+            "github_url": [
+                "https://bitbucket.org/fiap-gsie/pizzariaon/src/master/"
+            ]
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Marcelo Gabriel Lemos de Araujo",
+            "Rodrigo Moreira Ribeiro",
+            "Pedro Gonçalves Leta"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/frkX4B1b7wI",
+            "github_url": [
+                "https://github.com/pedrogleta/go-digital"
+            ]
+        },
+        "languages": {
+            "TypeScript": 31827,
+            "Java": 8149,
+            "JavaScript": 654,
+            "CSS": 91
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Felipe Bezerra da Silva",
+            "Henrique Cezarino Simões",
+            "Natalia Yumi Tomoyose Silva",
+            "Rodrigo Felipe da Silva Scorsi",
+            "João Gabriel Silva Lima"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/mQmrNmyW9Uw",
+            "github_url": [
+                "https://github.com/joaogabrielslima/asamistudiohair"
+            ]
+        },
+        "languages": {
+            "JavaScript": 11907,
+            "Java": 7506,
+            "HTML": 775
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Bernardo Nascimento Alves",
+            "Victor Vinicius Cunha Costa",
+            "Henrique de Melo Cristioglu",
+            "Raul Andres Martinez de Souza",
+            "Samuel Sobreira Marques"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/D3oDkFGbVJw",
+            "github_url": [
+                "https://github.com/LosSantosBoys/gerenciamento-frontend"
+            ]
+        },
+        "languages": {
+            "TypeScript": 80375,
+            "CSS": 46113,
+            "HTML": 34877
+        }
+    },
+    {
+        "title": "Learnaut",
+        "members": [
+            "Eric Eiiti Nomiyama",
+            "Gabriel Hipólito",
+            "Heitor Cunha Garcia",
+            "Sara de Moura Santos",
+            "Thales Lagares"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/mOSw87YNeYA",
+            "github_url": [
+                "https://github.com/HipolitoDeveloper/enterprise-challenge-odontosys-back.git",
+                "https://github.com/HipolitoDeveloper/enterprise-challenge-odontosys-front.git"
+            ]
+        },
+        "languages": {
+            "Java": 33247,
+            "Dockerfile": 596,
+            "TypeScript": 123
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Felipe Tusita"
+        ],
+        "links": {
+            "youtube_url": "https://www.youtube.com/watch?v=mQbQvKpTyN4",
+            "github_url": [
+                "https://drive.google.com/drive/folders/1lDA0fcYdYyg07HCqUD23p3EK8IEYO13n?usp=drive_link"
+            ]
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Joao Maia Jacome",
+            "Lucas Melo de Oliveira"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/oIheUaj5TDU",
+            "github_url": [
+                "https://github.com/lucax011/WebApplication"
+            ]
+        },
+        "languages": {
+            "Java": 1960,
+            "JavaScript": 687,
+            "CSS": 294
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Camilla Zapia de Araújo",
+            "Larissa Fazani Sacramento",
+            "Mário Augusto Barros de Seixas",
+            "Gustavo Ali Smidi"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/4CdOYKFbdns",
+            "github_url": [
+                "https://github.com/marioseixas76/projetoSalaoBackend",
+                "https://github.com/marioseixas76/projetoSalaoFront"
+            ]
+        },
+        "languages": {
+            "Java": 76869,
+            "PHP": 124916,
+            "CSS": 2311
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Bianca Hellen de Souza",
+            "Gabriela Noleto Costa",
+            "Luana Fumes de Aquino",
+            "Gabriel Felix Bouças",
+            "Isac dos Anjos França"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/J1SfHiepOTs",
+            "github_url": [
+                "https://github.com/Biahellens/vagakey"
+            ]
+        },
+        "languages": {
+            "TypeScript": 53227,
+            "Java": 32492,
+            "SCSS": 5878,
+            "HTML": 1717,
+            "Dockerfile": 261
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Daniel de Sousa Maia",
+            "Isis Renzoni",
+            "João Pedro Henrique Lissoni",
+            "Mateus Alcantara de Castro",
+            "Julia Pinheiro de Farias"
+        ],
+        "links": {
+            "youtube_url": "https://www.youtube.com/watch?v=W8ulFK551uU",
+            "github_url": [
+                "https://github.com/mat-alcantara/inove-frontend"
+            ]
+        },
+        "languages": {
+            "JavaScript": 23981,
+            "HTML": 1721,
+            "CSS": 1480
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Gabriel Bianchim Padoveze",
+            "Guilherme Viero Lopes",
+            "Letícia Dupont Rodrigues Gonçalves",
+            "Gustavo Herrero Nunes",
+            "Victor Flandoli Bombi"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/K3QNDewhaoM",
+            "github_url": [
+                "https://github.com/gpado/painel",
+                "https://github.com/shDupont/go-digital-api"
+            ]
+        },
+        "languages": {
+            "TypeScript": 53227,
+            "JavaScript": 53227,
+            "Java": 32492,
+            "HTML": 1717
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Filipe Cela Saraiva",
+            "Leonardo Carobolante",
+            "Renan Vinicius Biscola Vieira",
+            "Paloma Azevedo da Silva"
+        ],
+        "links": {
+            "youtube_url": "",
+            "github_url": []
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Marcelo Noquele Ribeiro",
+            "Emilia de Andrade Carvalho"
+        ],
+        "links": {
+            "youtube_url": "https://www.loom.com/share/0d414387c80f4509ae9735a4607294f5",
+            "github_url": []
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Fernando Fávaro",
+            "William da Rocha Adriano",
+            "Henrique da Fonseca",
+            "Kaique Ferraz de Jesus"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/I1JdZbvUo34",
+            "github_url": [
+                "https://github.com/ferfavaro/pbl_fiap_erp",
+                "https://github.com/KaiqueFj/CoffeeShop-Back"
+            ]
+        },
+        "languages": {
+            "JavaScript": 121714,
+            "CSS": 2429,
+            "TypeScript": 350,
+            "Java": 123
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Aline Batista Angeloni",
+            "André Rios Di Monaco",
+            "Eduardo Figueira Matarazzo",
+            "Rafael Bernardo da Silva Neto",
+            "Wagner Morgäo"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/Own068DdyBQ",
+            "github_url": []
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Vinícius de Abreu Cavalcante"
+        ],
+        "links": {
+            "youtube_url": "https://www.youtube.com/watch?v=kaNjgYfVp64&ab_channel=Vin%C3%ADciusCavalcante",
+            "github_url": [
+                "https://github.com/viniciuscavalcante1/fiap2sio-godigitalcode-spring"
+            ]
+        },
+        "languages": {
+            "Java": 121714,
+            "HTML": 2429,
+            "CSS": 350
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Gustavo Leite"
+        ],
+        "links": {
+            "youtube_url": "",
+            "github_url": []
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Fellipe Aguiar Botura",
+            "Victor Kenzo Oshima Sato"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/hBNfn1lVB44",
+            "github_url": []
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Iago Alfieri Coelho",
+            "Luiz Henrique Bailo Netto",
+            "Rodrigo Vieira Brasile",
+            "Camilly Sampaio",
+            "Gabriel De Oliveira Antonio"
+        ],
+        "links": {
+            "youtube_url": "https://youtu.be/JXH3seDOhG4",
+            "github_url": [
+                "https://github.com/iagoocoelho/front-pbl-fiap",
+                "https://github.com/rodrigoBrasile/enterprise-challenge"
+            ]
+        },
+        "languages": {
+            "JavaScript": 33440,
+            "SCSS": 85,
+            "HTML": 123,
+            "Java": 123
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "João",
+            "Maria",
+            "Pedro"
+        ],
+        "links": {
+            "youtube_url": "",
+            "github_url": []
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "HTML": 42266,
+        "JavaScript": 39337,
+        "Java": 33952,
+        "CSS": 19475
+    },
+    {
+        "Java": 15861
+    },
+    {
+        "TypeScript": 31827,
+        "Java": 8149,
+        "JavaScript": 654,
+        "CSS": 91
+    },
+    {
+        "JavaScript": 11907,
+        "Java": 7506,
+        "HTML": 775
+    },
+    {
+        "TypeScript": 80375,
+        "CSS": 46113,
+        "HTML": 34877
+    },
+    {
+        "Java": 33247,
+        "Dockerfile": 596
+    },
+    {
+        "TypeScript": 192755,
+        "Dockerfile": 1960,
+        "JavaScript": 687,
+        "CSS": 294
+    },
+    {
+        "Java": 76869,
+        "JavaScript": 8638,
+        "CSS": 3970
+    },
+    {
+        "Java": 50958
+    },
+    {
+        "PHP": 124916,
+        "CSS": 2311,
+        "Hack": 1051
+    },
+    {
+        "TypeScript": 53227,
+        "Java": 32492,
+        "SCSS": 5878,
+        "HTML": 1717,
+        "Dockerfile": 261
+    },
+    {
+        "JavaScript": 23981,
+        "HTML": 1721,
+        "CSS": 1480
+    },
+    {
+        "JavaScript": 121714,
+        "HTML": 2429,
+        "TypeScript": 350
+    },
+    {
+        "Java": 33440,
+        "Shell": 85
+    },
+    {
+        "TypeScript": 89930,
+        "JavaScript": 1106,
+        "CSS": 708
+    },
+    {
+        "Java": 83515
+    },
+    {
+        "Java": 34194,
+        "HTML": 14635,
+        "CSS": 1663
+    },
+    {
+        "JavaScript": 145254,
+        "SCSS": 4360,
+        "HTML": 1720
+    },
+    {
+        "Java": 40554
+    }
+]
