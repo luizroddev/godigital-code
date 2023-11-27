@@ -30,7 +30,7 @@
         ],
         "links": {
             "youtube_url": "https://youtu.be/_7rzViqLBoc",
-            "github_url": []
+            "github_url": ["https://github.com/beatriznonato/messias-library"]
         }
     },
     {
@@ -88,6 +88,27 @@
             "youtube_url": "https://youtu.be/frkX4B1b7wI",
             "github_url": [
                 "https://github.com/pedrogleta/go-digital"
+            ]
+        },
+        "languages": {
+            "TypeScript": 31827,
+            "Java": 8149,
+            "JavaScript": 654,
+            "CSS": 91
+        }
+    },
+    {
+        "title": "Grupo",
+        "members": [
+            "Bruno Gabriel Hashimoto Muniz",
+            "Isabella Piedade",
+            "Rafael Paciência",
+            "Raul Pereira"
+        ],
+        "links": {
+            "youtube_url": "https://www.youtube.com/watch?v=SMj0aoxl4GU&ab_channel=BrunoMuniz",
+            "github_url": [
+                "https://github.com/brunohashimotto/enterprise-challenge-2SIOA"
             ]
         },
         "languages": {
